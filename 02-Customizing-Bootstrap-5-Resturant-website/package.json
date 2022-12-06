@@ -1,0 +1,24 @@
+{
+  "name": "customizing-bootstrap-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/main.min.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamshaunjp/Customizing-Bootstrap-5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamshaunjp/Customizing-Bootstrap-5/issues"
+  },
+  "homepage": "https://github.com/iamshaunjp/Customizing-Bootstrap-5#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.1",
+    "node-sass": "^8.0.0",
+    "sass": "^1.56.1"
+  }
+}
